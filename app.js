@@ -85,3 +85,6 @@ switch (comando) {
 //git add . agregar al stage
 
 // git commit -m "Commit Inicial" -- confirmar o comprometer los archivos
+
+//git remote add origin https://github.com/AnthonyEC7/nodejs-multiplicar.git
+// -u me dice que va al origen  master va a la rama maestra

@@ -72,3 +72,16 @@ switch (comando) {
 // cuando no mando - es una instruccion
 
 //TRABAJO AUTONOMO     NPM COLOR
+
+//// CLASE GIT 
+
+// git --version 
+// git config --global user.name "Anthony"
+// git config user.email acardenast@est.ups.edu.ec
+// cd me dirijo a la carpeta 03-bases-node 
+//  git init 
+
+// git status - permite ver estado 
+//git add . agregar al stage
+
+// git commit -m "Commit Inicial" -- confirmar o comprometer los archivos
